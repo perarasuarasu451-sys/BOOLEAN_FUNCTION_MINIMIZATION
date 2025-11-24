@@ -66,7 +66,8 @@ Developed by: PERARASU K RegisterNumber: 25004665
 
 **Timing Diagram**
 
-<img width="1317" height="366" alt="Screenshot 2025-11-18 200755" src="https://github.com/user-attachments/assets/82e32f82-152c-47c2-b1e7-551462b7b5d5" />
+<img width="1319" height="247" alt="Screenshot 2025-11-24 080728" src="https://github.com/user-attachments/assets/a42ebc6a-6858-440d-98b7-5f324b67a860" />
+
 
 
 **Result:**
